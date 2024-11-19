@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: jfrog-artifactory.apps.rhopp241119a.devcluster.openshift.com/rhtap-docker/rhtap-qe:jenkins-8d8fbe7024592f92e7e6667505e124611e8ef4dd
+        - image: jfrog-artifactory.apps.rhopp241119a.devcluster.openshift.com/rhtap-docker/rhtap-qe:jenkins-667cc4c8db3687a3b5dc5a6ca1dc7284ad719e26
           name: container-image
